@@ -3,9 +3,6 @@
 簡易Telegram bot api 功能
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/iexbase/tron-api.svg)](https://github.com/yx1hlqbk/telegram/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/iexbase/tron-api.svg)](https://github.com/yx1hlqbk/telegram/pulls)
-[![Contributors](https://img.shields.io/github/contributors/iexbase/tron-api.svg)](https://github.com/yx1hlqbk/telegram/graphs/contributors)
 
 ## 安裝
 
