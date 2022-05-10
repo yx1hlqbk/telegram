@@ -20,10 +20,11 @@
 use Ian\TelegramApi\Telegram;
 
 $botKey = '';
+$chatId = '';
 
 try {
     $telegram = new Telegram($botKey);
-    $result = $telegram->sendMessage('1835191163', '');
+    $result = $telegram->sendMessage($chatId, '');
     var_dump($result);
 } catch (\Throwable $th) {
     exit($th->getMessage());
