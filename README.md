@@ -7,7 +7,7 @@
 ## 安裝
 
 ```bash
-> composer require yx1hlqbk/telegram
+composer require yx1hlqbk/telegram
 ```
 
 ## 環境要求
